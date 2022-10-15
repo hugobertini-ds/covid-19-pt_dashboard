@@ -1,0 +1,1 @@
+web: streamlit run test_streamlit.py --server.port=$PORT

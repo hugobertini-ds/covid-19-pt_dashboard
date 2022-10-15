@@ -1,0 +1,6 @@
+pandas
+streamlit
+geocoder
+pydeck
+numpy
+gunicorn
